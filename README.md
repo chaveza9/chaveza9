@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Learning Safety Enhanced Controllers for dealing with human driven vehicles**
 
-- 🌱 I’m currently learning **Jax, Game theory, learning-based optimization**
+- 🌱 I’m currently learning **Jax, Game theory, learning-based optimization, to cook?**
 
 - 👯 I’m looking to collaborate on **learning-based control for safety critical systems**
 
