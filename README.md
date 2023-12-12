@@ -11,7 +11,7 @@
 
 - 🤖 Passionate about **Robots**
 
-- 👨‍💻 All of my projects are available at [https://www.andres-chavez-armijos.com/](https://www.andres-chavez-armijos.com/)
+- 👨‍💻 All of my projects are available at [https://www.andres-chavez-armijos.com/](https://chavezarmijosa.wixsite.com/chaveza9)
 
 - 📫 How to reach me **aschavez[at]bu[dot].edu**
 
